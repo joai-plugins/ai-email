@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "joai-ai-email": {
+      "url": "https://cortex.joai.ai/mcp/apps/ai-email"
+    }
+  }
+}
